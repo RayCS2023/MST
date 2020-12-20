@@ -1,0 +1,50 @@
+n 12
+i 1;5;1
+i 5;3;1
+degree 6
+degree 1
+degree 5
+edge_count
+i 3;0;2.5
+i 3;4;6
+degree 3
+i 0;4;0.3
+i 3;9;3
+i 1;9;1
+edge_count
+i 9;2;1
+degree 3
+degree 7
+degree 1
+i 8;9;1
+i 2;11;1.5
+i 7;8;2
+i 11;8;5
+i 6;8;1
+i 10;6;1
+i 10;11;2.25
+edge_count
+degree 0
+degree 1
+degree 2
+degree 3
+degree 4
+degree 5
+degree 6
+degree 7
+degree 8
+degree 9
+degree 10
+degree 11
+mst
+edge_count
+d 1;5
+degree 3
+d 3;5
+degree 3
+edge_count
+d 6;8
+d 9;8
+d 0;4
+mst
+clear

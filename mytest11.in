@@ -1,0 +1,17 @@
+n 6
+i 4;5;2.4
+i 1;4;3
+i 4;2;5
+i 3;4;9.5
+i 5;1;12
+i 3;5;4
+i 5;0;8
+i 2;4;100
+mst
+edge_count
+degree 4
+d 5;3
+d 4;5
+d 5;1
+edge_count
+mst

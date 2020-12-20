@@ -1,0 +1,12 @@
+n 1
+i 0;0;1
+i 1;1;1
+d 1;1
+d -1;0
+d 0;0
+i -1;0;2
+i 2;0;1
+degree 0
+edge_count
+clear
+d 0;0
